@@ -18,7 +18,7 @@ I'm a junior programmer analyst who is passionate about front-end web developmen
   </tr>
   
   <tr>
-    <td align="center" valign="top">
+    <td colspan="2" align="center">
         <h3>🌐 Find Me</h3>
         <div align="center">
         <a href = "www.linkedin.com/in/harmony-mothershed"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
