@@ -29,7 +29,7 @@ I'm a junior programmer analyst who is passionate about front-end web developmen
     </td>
     <td>
     <div align="center">
-        <img src= "https://tenor.com/bWt03.gif" />
+        ![heart-hearts](https://github.com/user-attachments/assets/5704d6b0-7bdb-43f3-80a8-11b9f9e41e3a)
     </div>
     </td>
   </tr>
