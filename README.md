@@ -27,10 +27,5 @@ I'm a junior programmer analyst who is passionate about front-end web developmen
         <a href= "https://www.instagram.com/dehsrehtom?igsh=MWE2OGNqeDExMHN0aw%3D%3D&utm_source=qr"><img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
         </div>
     </td>
-    <td>
-    <div align="center">
-        ![heart-hearts](https://github.com/user-attachments/assets/5704d6b0-7bdb-43f3-80a8-11b9f9e41e3a)
-    </div>
-    </td>
   </tr>
 </table>
