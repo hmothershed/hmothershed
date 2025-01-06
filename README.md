@@ -1,6 +1,6 @@
 # 👋🏾 Hi, I'm Harmony!
 
-I'm a junior programmer analyst who is passionate about front-end web development and analytics. At the moment, I am studying for an AWS Certified Developer Associate certificate, so I'm praying for the best 🤞🏾. But my ultimate goal is to continually grow, build confidence, and refine my skills through practical coding projects.
+I'm a junior programmer analyst who is passionate about front-end web development and analytics. My ultimate goal is to continually grow, build confidence, and refine my skills through practical coding projects.
 
 <table>
   <tr>
