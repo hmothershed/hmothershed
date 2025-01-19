@@ -23,7 +23,6 @@ I'm a junior programmer analyst who is passionate about front-end web developmen
         <div align="center">
         <a href = "https://www.linkedin.com/in/hmothershed"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         <a href = "https://www.facebook.com/profile.php?id=100081624061498&mibextid=JRoKGi"><img src= "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-        <a href = "https://www.tiktok.com/@dehsrehtom?_t=8rKvHzDtsjf&_r=1"><img src= "https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
         <a href= "https://www.instagram.com/dehsrehtom?igsh=MWE2OGNqeDExMHN0aw%3D%3D&utm_source=qr"><img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
         </div>
     </td>
