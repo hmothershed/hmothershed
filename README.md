@@ -28,3 +28,16 @@ I'm a junior programmer analyst who is passionate about front-end web developmen
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <picture>
+    <source
+      srcset="https://streak-stats.demolab.com?user=hmothershed&theme=buefy-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"
+      media="(prefers-color-scheme: dark)"
+      />
+    <img
+      src="https://streak-stats.demolab.com?user=hmothershed&theme=buefy&hide_border=true&date_format=j%20M%5B%20Y%5D"
+      alt="Github Streak"
+      />
+  </picture>
+</div>
