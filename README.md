@@ -30,14 +30,16 @@ I'm a junior programmer analyst who is passionate about front-end web developmen
 </table>
 
 <div align="center">
-  <picture>
-    <source
-      srcset="https://streak-stats.demolab.com?user=hmothershed&theme=buefy-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"
-      media="(prefers-color-scheme: dark)"
-      />
-    <img
-      src="https://streak-stats.demolab.com?user=hmothershed&theme=buefy&hide_border=true&date_format=j%20M%5B%20Y%5D"
-      alt="Github Streak"
-      />
-  </picture>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmothershed&hide_progress=true&theme=transparent" alt="GitHub languages">
+  
+  
+  <a href="https://git.io/streak-stats#gh-dark-mode-only">
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=hmothershed&theme=buefy-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000#gh-dark-mode-only" alt="GitHub Streak Dark Mode" width="48%">
+  </a>
+  
+  <a href="https://git.io/streak-stats#gh-light-mode-only">
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=hmothershed&theme=buefy&hide_border=true&date_format=j%20M%5B%20Y%5D#gh-light-mode-only" alt="GitHub Streak Light Mode" width="48%">
+  </a>
+
 </div>
